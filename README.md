@@ -4,6 +4,6 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-## Important
+## Important:
 
 Please download the export of the project notebook in: <a id="raw-url" href="https://github.com/jsleung1/dl_project_6_sagemaker_deployment/blob/master/report.html" download="report.html">report.html</a> or <a id="raw-url" href="https://github.com/jsleung1/dl_project_6_sagemaker_deployment/blob/master/report.pdf" download="report.html">report.pdf</a>.  
